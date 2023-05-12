@@ -1,0 +1,10 @@
+load: STARTUP
+name: HardenedSurvival
+version: '0.1'
+main: me.tenteur.hardenedsurvival.Main
+api-version: 1.19
+authors: [Tenteur592]
+description: This plugin add survival functionalities to make the survive harder
+commands:
+  upgrade:
+    description: Allow the player to upgrade his tools
